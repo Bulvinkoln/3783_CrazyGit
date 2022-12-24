@@ -5,3 +5,5 @@ Info - Семинар 3
 ## Git Hub - архив по работе с удаленными репозиториями
 
 ## *команды Git Hub*
+
+ *git clone, git pull, git push*
